@@ -10,7 +10,7 @@ const chatSpaces = [
 ]
 
 const apps = [
-  { name: 'Gemini', icon: Puzzle },
+  { name: 'Google Drive', icon: Puzzle },
   { name: 'Polling', icon: Puzzle },
   { name: 'Asana', icon: Puzzle },
 ]
